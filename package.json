@@ -1,0 +1,24 @@
+{
+  "name": "smx-casper-utils",
+  "version": "1.0.0",
+  "description": "Casper/PhantomJS helper library\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminma/smx-casper-utils.git"
+  },
+  "keywords": [
+    "CasperJS",
+    "PhantomJS",
+    "CLI"
+  ],
+  "author": "Ipsos SMX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjaminma/smx-casper-utils/issues"
+  },
+  "homepage": "https://github.com/benjaminma/smx-casper-utils#readme"
+}
